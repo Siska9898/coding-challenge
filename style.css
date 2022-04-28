@@ -1,0 +1,48 @@
+body{
+  background-image: url( file:///C:/Users/cisca/Downloads/Coding%20Challenge/background.jpg);
+  color: white;
+  background-size: cover;
+}
+.container{
+  display:block;
+     margin:auto;
+     text-align:center;
+}
+.nome-logo{
+  color: #32CD32;
+}
+.logo{
+  width: 150px;
+}
+#bottoni{
+background-color: #32CD32;
+display: block;
+padding-left: 38%
+}
+.gino{
+display: inline-block;
+align-content: center;
+}
+.Gino22{
+display: inline-block;
+padding-left: 30%
+}
+
+.rettangolo {
+	width:200px;
+	height:20px;
+	background:orange;
+}
+
+.mike{
+display: inline-block;
+}
+.rett{
+	width:200px;
+	height:20px;
+	background:green;
+}
+
+.fede{
+display: inline-block;
+}
